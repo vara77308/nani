@@ -21,7 +21,7 @@
 	
 	<main>
 		<section class="banner">
-			<h2>Welcome to our online store!</h2>
+			<h2>Welcome to our new build store</h2>
 		</section>
 		
 		<section class="featured-products">
