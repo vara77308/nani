@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+ 
+ 
+ .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      h1 {
+        text-align: center;
+        font-family: 'Caveat', cursive;
+        font-size: 4rem;
+      }
+      img {
+        width: 300px;
+        margin: 10px;
+        border-radius: .8rem;
+        cursor: pointer;
+
+
+      } 
+      .imageEle :hover{
+        border: 3px solid teal;
+      }
