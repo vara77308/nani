@@ -9,7 +9,9 @@
   <title>Random Image's Testing</title>
 </head>
 <body>
-   <h1>Random Image's testing...</h1>
+   <h1>Random Image's ...</h1>
+  <h2>Under Construction </h2>
+  
     <div class="container"></div>
 </body>
 <script src="./script.js"></script>
