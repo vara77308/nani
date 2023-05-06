@@ -10,7 +10,7 @@
 </head>
 <body>
    <h1>Random Image's ...</h1>
-  <h2>Under Construction </h2>
+  <h2><center>Under Construction</center></h2>
   
     <div class="container"></div>
 </body>
