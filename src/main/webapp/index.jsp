@@ -10,9 +10,8 @@
 </head>
 <body>
    <h1>Random Image's ...</h1>
-  <h2><center>Under Construction</center></h2>
   
-    <div class="container"></div>
+  <div class="container"></div>
 </body>
 <script src="./script.js"></script>
 
