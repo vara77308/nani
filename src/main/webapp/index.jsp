@@ -15,6 +15,6 @@
 </body>
 <script src="./script.js"></script>
 
-  <footer>Devloped by Gopi Kothalanka and vamsi </footer>
+  <footer>Devloped by vara </footer>
 </html>
 
