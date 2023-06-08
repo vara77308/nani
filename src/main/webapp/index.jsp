@@ -15,6 +15,6 @@
 </body>
 <script src="./script.js"></script>
 
-  <footer>Devloped by vara </footer>
+  <footer>Devloped by varalakshmi </footer>
 </html>
 
